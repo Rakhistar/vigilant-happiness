@@ -1,0 +1,4 @@
+x=int(input('enter a first number:'))
+y=int(input('enter a second number:'))
+print('The sum of',x,'and',y,'is', x+y) #display sum
+print('The sum of {} and {} is {}'.format(x,y,x+y)) #display again
