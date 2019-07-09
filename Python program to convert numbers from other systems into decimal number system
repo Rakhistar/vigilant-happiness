@@ -1,0 +1,12 @@
+#input from other number systems
+str=input('Enter hexadecimal number:')
+n=int(str,16) #inform the number is base 16
+print('hexadecimal to decimal=',n)
+
+str=input('Enter octal number:')
+n=int(str,8) #inform the number is base 8
+print('octal to decimal=',n)
+
+str=input('Enter binary number:')
+n=int(str,2) #inform the number is base 2
+print('binary to decimal=',n)
