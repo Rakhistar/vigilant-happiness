@@ -1,0 +1,3 @@
+#using eval() along with input() function
+x=eval(input("Enter an expression:"))
+print("result=%d" %x)
