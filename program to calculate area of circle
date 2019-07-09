@@ -1,0 +1,5 @@
+#to find the area openimport math
+r=float(input('Enter a radius:'))
+import math  #here math module needed
+area=math.pi * r**2 #pi is a constant in math module
+print('Area of circle=',area)
