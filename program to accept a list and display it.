@@ -1,0 +1,4 @@
+#accepting a list from keyboard
+lst=eval(input("enter a list:"))
+print("List=",lst)
+ 
