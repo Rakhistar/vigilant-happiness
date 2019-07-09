@@ -1,0 +1,6 @@
+Q:1 Write a program to accept a string from keyboard and display it.
+str= input("Enter a string:")
+print("u entered:", str)
+
+
+
