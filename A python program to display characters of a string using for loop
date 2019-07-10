@@ -1,0 +1,4 @@
+# to display each chracter from a String
+str='Hello'
+for ch in str:
+  print(ch) 
