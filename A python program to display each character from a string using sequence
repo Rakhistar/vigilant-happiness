@@ -1,0 +1,5 @@
+# to display each chracter from a String
+str='Hello'
+n=len(str) #find no. of chars in str
+for i in range(n):  #range object is also knowns as range() function to provide sequence of numbers
+  print(str[i])
