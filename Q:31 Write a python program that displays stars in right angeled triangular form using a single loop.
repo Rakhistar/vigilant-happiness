@@ -1,0 +1,3 @@
+#to display stars in right angeled triangular form
+for i in range(1,11):
+    print('*'*(i))
